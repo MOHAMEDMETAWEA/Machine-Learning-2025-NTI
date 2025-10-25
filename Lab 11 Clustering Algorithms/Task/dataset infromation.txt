@@ -1,0 +1,40 @@
+gradyear: The graduation year of the high school student.
+gender: The gender of the student (e.g., male or female).
+age: The age of the student at the time of the survey.
+NumberOffriends: The number of contacts or friends the student had on the social network.
+basketball: The frequency or count of mentions of basketball in the student's profile.
+football: The frequency or count of mentions of football in the student's profile.
+soccer: The frequency or count of mentions of soccer in the student's profile.
+softball: The frequency or count of mentions of softball in the student's profile.
+volleyball: The frequency or count of mentions of volleyball in the student's profile.
+swimming: The frequency or count of mentions of swimming in the student's profile.
+cheerleading: The frequency or count of mentions of cheerleading in the student's profile.
+baseball: The frequency or count of mentions of baseball in the student's profile.
+tennis: The frequency or count of mentions of tennis in the student's profile.
+sports: The overall frequency or count of mentions of sports in the student's profile.
+cute: The frequency or count of mentions of cute in the student's profile.
+sex: The frequency or count of mentions of sex in the student's profile.
+sexy: The frequency or count of mentions of sexy in the student's profile.
+hot: The frequency or count of mentions of hot in the student's profile.
+kissed: The frequency or count of mentions of kissed in the student's profile.
+dance: The frequency or count of mentions of dance in the student's profile.
+band: The frequency or count of mentions of band in the student's profile.
+marching: The frequency or count of mentions of marching in the student's profile.
+music: The frequency or count of mentions of music in the student's profile.
+rock: The frequency or count of mentions of rock in the student's profile.
+god: The frequency or count of mentions of god in the student's profile.
+church: The frequency or count of mentions of church in the student's profile.
+jesus: The frequency or count of mentions of Jesus in the student's profile.
+bible: The frequency or count of mentions of the Bible in the student's profile.
+hair: The frequency or count of mentions of hair in the student's profile.
+dress: The frequency or count of mentions of dress in the student's profile.
+blonde: The frequency or count of mentions of blonde in the student's profile.
+mall: The frequency or count of mentions of mall in the student's profile.
+shopping: The frequency or count of mentions of shopping in the student's profile.
+clothes: The frequency or count of mentions of clothes in the student's profile.
+hollister: The frequency or count of mentions of Hollister (a brand) in the student's profile.
+abercrombie: The frequency or count of mentions of Abercrombie (a brand) in the student's profile.
+die: The frequency or count of mentions of die in the student's profile.
+death: The frequency or count of mentions of death in the student's profile.
+drunk: The frequency or count of mentions of drunk in the student's profile.
+drugs: The frequency or count of mentions of drugs in the student's profile.
